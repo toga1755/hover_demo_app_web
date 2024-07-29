@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/hover_demo_app_web/static/css/main.f855e6bc.css",
-    "main.js": "/hover_demo_app_web/static/js/main.ee7728b4.js",
-    "static/js/453.c07901e6.chunk.js": "/hover_demo_app_web/static/js/453.c07901e6.chunk.js",
-    "static/media/logo.svg": "/hover_demo_app_web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/hover_demo_app_web/static/css/main.215de0b0.css",
+    "main.js": "/hover_demo_app_web/static/js/main.1a72cdcd.js",
+    "static/js/453.dd87bebd.chunk.js": "/hover_demo_app_web/static/js/453.dd87bebd.chunk.js",
     "index.html": "/hover_demo_app_web/index.html",
-    "main.f855e6bc.css.map": "/hover_demo_app_web/static/css/main.f855e6bc.css.map",
-    "main.ee7728b4.js.map": "/hover_demo_app_web/static/js/main.ee7728b4.js.map",
-    "453.c07901e6.chunk.js.map": "/hover_demo_app_web/static/js/453.c07901e6.chunk.js.map"
+    "main.215de0b0.css.map": "/hover_demo_app_web/static/css/main.215de0b0.css.map",
+    "main.1a72cdcd.js.map": "/hover_demo_app_web/static/js/main.1a72cdcd.js.map",
+    "453.dd87bebd.chunk.js.map": "/hover_demo_app_web/static/js/453.dd87bebd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ee7728b4.js"
+    "static/css/main.215de0b0.css",
+    "static/js/main.1a72cdcd.js"
   ]
 }
