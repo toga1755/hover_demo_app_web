@@ -24,7 +24,7 @@ function App() {
         <React.StrictMode>
             <BrowserRouter>
                 <Routes>
-                    <Route path="/" element={<HomePage />} />
+                    <Route path="/hover_demo_app_web" element={<HomePage />} />
                     <Route path="/notice_list" element={<NoticeListPage />} />
                     <Route path="/notice/:id" element={<NoticeDetailPage />} />
                     <Route path="/opeInfo" element={<OpeInfoPage />} />
