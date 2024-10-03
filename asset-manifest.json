@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hover_demo_app_web/static/css/main.215de0b0.css",
-    "main.js": "/hover_demo_app_web/static/js/main.1a72cdcd.js",
+    "main.js": "/hover_demo_app_web/static/js/main.dca77a30.js",
     "static/js/453.dd87bebd.chunk.js": "/hover_demo_app_web/static/js/453.dd87bebd.chunk.js",
     "index.html": "/hover_demo_app_web/index.html",
     "main.215de0b0.css.map": "/hover_demo_app_web/static/css/main.215de0b0.css.map",
-    "main.1a72cdcd.js.map": "/hover_demo_app_web/static/js/main.1a72cdcd.js.map",
+    "main.dca77a30.js.map": "/hover_demo_app_web/static/js/main.dca77a30.js.map",
     "453.dd87bebd.chunk.js.map": "/hover_demo_app_web/static/js/453.dd87bebd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.215de0b0.css",
-    "static/js/main.1a72cdcd.js"
+    "static/js/main.dca77a30.js"
   ]
 }
