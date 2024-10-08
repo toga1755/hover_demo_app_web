@@ -47,7 +47,7 @@ function App() {
                     <Route path="/booking/booking_confirmation" element={<BookingConfirmationPage />} />
                     <Route path="/booking/booking_confirmation_sample" element={<BookingConfirmationSamplePage />} />
                     <Route path="/logout" element={<About />} />
-                    <Route path="*" element={<Nomatch />} />
+                    <Route path="*" element={<HomePage />} />
                 </Routes>
             </BrowserRouter>
         </React.StrictMode>
