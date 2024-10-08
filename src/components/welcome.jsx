@@ -25,11 +25,11 @@ function App() {
             <BrowserRouter>
                 <Routes>
                     <Route path="/hover_demo_app_web" element={<HomePage />} />
-                    <Route path="/notice_list" element={<NoticeListPage />} />
-                    <Route path="/notice/:id" element={<NoticeDetailPage />} />
-                    <Route path="/opeInfo" element={<OpeInfoPage />} />
-                    <Route path="/pricelist" element={<PricePage />} />
-                    <Route path="/timetable">
+                    <Route path="/hover_demo_app_web/notice_list" element={<NoticeListPage />} />
+                    <Route path="/hover_demo_app_web/notice/:id" element={<NoticeDetailPage />} />
+                    <Route path="/hover_demo_app_web/opeInfo" element={<OpeInfoPage />} />
+                    <Route path="/hover_demo_app_web/pricelist" element={<PricePage />} />
+                    <Route path="/hover_demo_app_web/timetable">
                         <Route index={true} element={<TimeTablePage />} />
                         <Route
                             path=":divitiondaysId/:destinationId"
@@ -37,16 +37,16 @@ function App() {
                         />
                     </Route>
 
-                    <Route path="/inquiry" element={<InquiryPage />} />
-                    <Route path="/reserve" element={<About />} />
-                    <Route path="/account" element={<AccountPage />} />
-                    <Route path="/account/login" element={<LoginPage />} />
-                    <Route path="/account/signup" element={<SignupPage />} />
-                    <Route path="/account/signup_confirmation" element={<SignupConfirmationPage />} />
-                    <Route path="/booking" element={<BookingPage />} />
-                    <Route path="/booking/booking_confirmation" element={<BookingConfirmationPage />} />
-                    <Route path="/booking/booking_confirmation_sample" element={<BookingConfirmationSamplePage />} />
-                    <Route path="/logout" element={<About />} />
+                    <Route path="/hover_demo_app_web/inquiry" element={<InquiryPage />} />
+                    <Route path="/hover_demo_app_web/reserve" element={<About />} />
+                    <Route path="/hover_demo_app_web/account" element={<AccountPage />} />
+                    <Route path="/hover_demo_app_web/account/login" element={<LoginPage />} />
+                    <Route path="/hover_demo_app_web/account/signup" element={<SignupPage />} />
+                    <Route path="/hover_demo_app_web/account/signup_confirmation" element={<SignupConfirmationPage />} />
+                    <Route path="/hover_demo_app_web/booking" element={<BookingPage />} />
+                    <Route path="/hover_demo_app_web/booking/booking_confirmation" element={<BookingConfirmationPage />} />
+                    <Route path="/hover_demo_app_web/booking/booking_confirmation_sample" element={<BookingConfirmationSamplePage />} />
+                    <Route path="/hover_demo_app_web/logout" element={<About />} />
                     <Route path="*" element={<HomePage />} />
                 </Routes>
             </BrowserRouter>
